@@ -1,7 +1,7 @@
 import pygame
 import sys
 from pygame.locals import *
-from grid_generator import fill_grid, set_grid
+from sudoku_utility import fill_grid, set_grid
 
 """
 CHANGE THIS:
